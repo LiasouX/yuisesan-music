@@ -1,0 +1,11 @@
+
+spring:
+  application:
+    name: yuiseanMusic
+  datasource:
+    url: jdbc:mysql://1.117.231.41:3306/yuisean-music?charsetEncoding=UTF8&userSSL=false
+    driver-class-name: com.mysql.jdbc.Driver
+    password: root
+    username: root
+server:
+  port: 8080
