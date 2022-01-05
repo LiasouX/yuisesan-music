@@ -3,9 +3,9 @@ spring:
   application:
     name: yuiseanMusic
   datasource:
-    url: jdbc:mysql://1.117.231.41:3306/yuisean-music?charsetEncoding=UTF8&userSSL=false
+    url: jdbc:mysql://10.0.224.6:3306/yuisean-music?charsetEncoding=UTF8&userSSL=false
     driver-class-name: com.mysql.jdbc.Driver
-    password: root
-    username: root
+    password: music
+    username: Yuisean1
 server:
   port: 8080
